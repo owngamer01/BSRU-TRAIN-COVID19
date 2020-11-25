@@ -1,0 +1,4 @@
+enum RouteApp {
+  covidHistory,
+  provinceVirus
+}

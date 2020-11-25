@@ -1,0 +1,1 @@
+const String baseURL = 'https://covid19.th-stat.com/api/open';
