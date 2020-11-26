@@ -6,4 +6,6 @@ Flutter project example Covid 19.
 
 This project is a starting point for a Flutter application.
 
-![](assets/image/error.jpg)
+<div>
+    <img src='assets/image/error.jpg' height='200'>
+</div>
